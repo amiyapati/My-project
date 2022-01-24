@@ -22,6 +22,7 @@ nav {
   justify-content: space-between;
   height: 80px;
   padding: 35px 45px;
+  padding-bottom: 0px;
 }
 
 .nav-list ul {
