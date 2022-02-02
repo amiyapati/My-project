@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-      Lab
+      Figma Design
     <br>
-    <img src="https://github.com/basu021/lab/blob/main/elements/logo.svg" height="250" align="center" />
+    <img src="https://github.com/amiyapati/My-project/blob/main/Elements/Markdown/monitor.svg" height="120" align="center" />
     <br>
