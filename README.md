@@ -1,1 +1,2 @@
-<h1> Delicius.me
+<h1 align = "center"> 
+  Delicius.me
